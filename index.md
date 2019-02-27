@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Game & Mobile Application Development. A Professional Student Organization.
 
-You can use the [editor on GitHub](https://github.com/GAMA-Dev/GAMA-Dev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Game and Mobile Application Development (GAMA Dev) organization was founded February 2017. It provides opportunities for students to meet other like-minded programmers, artists and musicians to learn more about the emerging technologies used in mobile application and game development and to collaborate on projects outside of the classroom.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Members work with one another on multi-disciplinary topics including topics including but not limited to available and industry standard tools, industry accepted coding practices, story development, game mechanics, art styles,and music. We encourage collaboration and learning through team-based projects and student-lead workshops with hands-on coding. We welcome and encourage all Santa Fe College students with an interest in game or mobile app development to participate.
+
+GAMA Dev aims to build personal and professional relationships across the campus and in the community. We are actively establishing ourself through club-sponsored activities and presentations, guest speaker panels, community outreach, and touring local development companies.
 
 ### Markdown
 
