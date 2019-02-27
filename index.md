@@ -1,4 +1,5 @@
-## Game & Mobile Application Development. A Professional Student Organization.
+# Game & Mobile Application Development
+### A Professional Student Organization
 
 The Game and Mobile Application Development (GAMA Dev) organization was founded February 2017. It provides opportunities for students to meet other like-minded programmers, artists and musicians to learn more about the emerging technologies used in mobile application and game development and to collaborate on projects outside of the classroom.
 
@@ -6,34 +7,20 @@ Members work with one another on multi-disciplinary topics including topics incl
 
 GAMA Dev aims to build personal and professional relationships across the campus and in the community. We are actively establishing ourself through club-sponsored activities and presentations, guest speaker panels, community outreach, and touring local development companies.
 
-### Markdown
+## Meetings
+**When:** Tuesdays, 5 PM
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Where:** P-263
 
-```markdown
-Syntax highlighted code block
+Club meetings are held weekly and are designed to facilitate communication among members, to plan and coordinate club activities, and to build a strong network both on campus and in the community.
 
-# Header 1
-## Header 2
-### Header 3
+## Current Officers
+**President:** Dominic Morales 
 
-- Bulleted
-- List
+**Vice President:** Jesse Painter
 
-1. Numbered
-2. List
+**Secretary** Lainey McDaniel
 
-**Bold** and _Italic_ and `Code` text
+**Senators:** Ryan Winder & Chandler Fox
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GAMA-Dev/GAMA-Dev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Treasurer** Chandler Fox
