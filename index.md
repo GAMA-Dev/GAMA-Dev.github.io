@@ -21,6 +21,6 @@ Club meetings are held weekly and are designed to facilitate communication among
 
 **Secretary** Lainey McDaniel
 
-**Senators:** Ryan Winder & Chandler Fox
+**Senators:** Ryan Widner & Chandler Fox
 
 **Treasurer** Chandler Fox
