@@ -25,4 +25,6 @@ Club meetings are held weekly and are designed to facilitate communication among
 
 **Treasurer** Chandler Fox
 
+## [Agenda](docs/agenda.md)
+
 ## [Meeting Minutes](docs/minutes.md)
