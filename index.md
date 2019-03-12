@@ -24,3 +24,5 @@ Club meetings are held weekly and are designed to facilitate communication among
 **Senators:** Ryan Widner & Chandler Fox
 
 **Treasurer** Chandler Fox
+
+## [Meeting Minutes](https://GAMA-Dev.github.io/minutes.html)
