@@ -9,7 +9,7 @@
   * Github & Canvas
   * [Run For Your Life](https://raceroster.com/events/2019/23791/run-for-your-life-5k)
   * Workshop Times & Topics
-  * [Logo Icon](docs/Logos.png)
+  * Logo Icon
   * [Scholarship Opportunity](https://www.dannyerricoscholarship.com/)
 
 ## Dates
