@@ -4,12 +4,12 @@
 ## News
  * Welcome any/all newcomers
  * Use Github
- 
+
 ## Agenda
   * Github & Canvas
   * [Run For Your Life](https://raceroster.com/events/2019/23791/run-for-your-life-5k)
   * Workshop Times & Topics
-  * Logo Icon
+  * [Logo Icon](docs/Logos.png)
   * [Scholarship Opportunity](https://www.dannyerricoscholarship.com/)
 
 ## Dates
