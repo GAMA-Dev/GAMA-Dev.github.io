@@ -10,7 +10,7 @@
   * [Run For Your Life](https://raceroster.com/events/2019/23791/run-for-your-life-5k)
   * Workshop Times & Topics
   * Logo Icon
-  * [Humble Book Bundle] (https://www.humblebundle.com/books/become-game-developer-books?hmb_source=navbar&hmb_medium=product_tile&hmb_campaign=tile_index_5)
+  * [Humble Book Bundle](https://www.humblebundle.com/books/become-game-developer-books?hmb_source=navbar&hmb_medium=product_tile&hmb_campaign=tile_index_5)
   * [Scholarship Opportunity](https://www.dannyerricoscholarship.com/)
 
 ## Dates
