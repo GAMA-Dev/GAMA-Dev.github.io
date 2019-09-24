@@ -1,21 +1,20 @@
 # GAMA Dev Meeting
-### Tuesday, September 19th 2019 : 5PM - 6PM : P-263
+### Tuesday, September 24th 2019 : 5PM - 6PM : P-263
 
 ## News
- * Welcome any/all newcomers
  * Use Github
 
 ## Agenda
-  * Github & Canvas
-  * [Run For Your Life](https://raceroster.com/events/2019/23791/run-for-your-life-5k)
+  * [Counseling Center](https://www.sfcollege.edu/counseling/index)
+  * Transfer Club
+  * Five Star
   * Workshop Times & Topics
-  * Logo Icon
-  * [Humble Book Bundle](https://www.humblebundle.com/books/become-game-developer-books?hmb_source=navbar&hmb_medium=product_tile&hmb_campaign=tile_index_5)
   * [Scholarship Opportunity](https://www.dannyerricoscholarship.com/)
 
 ## Dates
-  * Student Organization Officer Training (SOOT) 
-    * Wednesday 9/18/19: 4PM - 6PM 
   * Fall Volunteer Fair 
     * Wednesday 9/25/19: 11AM - 2PM 
- 
+  * Vendor Day
+    * Thursday 9/25/19: 11AM - 2PM
+  * Java Workshop
+    * Thursday 10/3/19: 5PM - 6PM
