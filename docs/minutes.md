@@ -1,4 +1,37 @@
 # Meeting Minutes
+## September 24th, 2019
+Meeting open at 5:12 pm, room P-263.
+
+### Transfer Club
+* For students who are looking to transfer to UF. 
+* Club is made up of SF students and UF students.
+
+### Five Star
+* Community Service - 16 hours left to make as a club
+* Paperwork
+
+### Workshops
+Thursdays at 5 pm, room N-114
+* Next lab will be October 3rd: Intro to Java
+
+### Game Ideas
+* Puzzle games
+* Script- or menu-based RPG
+* "Baba is You" alike
+* Snow-environment game
+* 
+
+### Dates
+  * Fall Volunteer Fair 
+    * Wednesday September 25th, 11 am - 2 pm
+    * S-Breezeway
+  * Vendor Day
+    * Thursday September 26th, 11 am - 2 pm
+    * R-001
+
+[Scholarship Opportunity](https://www.dannyerricoscholarship.com/)
+
+
 ## September 17th, 2019
 Meeting open at 5 pm, room P-263.
 
