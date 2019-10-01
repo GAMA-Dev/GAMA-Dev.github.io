@@ -1,4 +1,43 @@
 # Meeting Minutes
+## October 1st, 2019
+Meeting open at 5:03 pm, room P-263.
+
+### Officer Introductions to New Members
+
+### Workshop
+October 3rd, Introduction to Java in N-114 at 5 pm.
+
+### Game Plan
+* Game proposals will begin next week.
+* Dominic has prepared a format to follow when proposing a game.
+
+### Game Tournament
+* Fall: November 19th, 1pm - 8pm. Dominic will check/reserve R-001.
+* Less casual games, more tournament/competing games
+* One station with tourmanent games for practice beforehand
+* Games
+ * Smash Ultimate
+ * Mario Kart
+ * Tekken 7
+* Casual Set-up Games
+ * Board Games
+ * Ultimate Chicken Horse
+ * Stick Fight
+ * Jackbox
+ * Speedrunner
+* Prizes
+ * Gift Cards
+  * Amazon
+  * Gamestop
+  * Best Buy
+  * Check with local businesses for donations
+  
+### Logo
+Teal with console: Have "Hello World" in console
+
+[Scholarship Opportunity](https://www.dannyerricoscholarship.com/)
+
+
 ## September 24th, 2019
 Meeting open at 5:12 pm, room P-263.
 
