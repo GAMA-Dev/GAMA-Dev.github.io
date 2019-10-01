@@ -6,8 +6,7 @@
 
 ## Agenda
   * Java Workshop
-  * Fall & Spring Semester
-    * Where to go from here...
+  * Game Plan...literally
   * Game Tournament
   * [Scholarship Opportunity](https://www.dannyerricoscholarship.com/)
 
