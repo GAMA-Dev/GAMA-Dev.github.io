@@ -1,4 +1,41 @@
 # Meeting Minutes
+## October 8th, 2019
+Meeting open at 5:00 pm, room P-263.
+
+### Workshop
+* 3-D Blender
+* October 17th in N-114 at 5 pm
+
+### Game Tournament
+* Dominic has not reserved the room yet: planning for 19th of November.
+* Jesse still has to make the flyer.
+ * Mario Kart 8
+ * Tekken 7
+ * Smash
+ 
+### Game Plans
+* "Ruin" game
+ * Fantasy Survival
+ * 2-D side scroller 2/ 3-D aspects
+ * Based of Terraria, Kingdom: Classic, Noita
+* "God Complex" game
+ * Top-down RPG with Labyrinth
+* "Git Gud" app
+ * Fitness; documents exercise
+ * Chart made based on fitness test
+ * Level-up! Gain experience based on workouts.
+* Rhythm-based 2-D Platformer game
+ * Jump to the song
+* "Quest" app
+ * Social
+ * Friends would give you "quests"
+ * Do quests to get exp and level up
+ * "Raid" encounters = social event, monthly
+* Future-seeing fighting game
+ * See red outline, know where enemy is going to swing
+ * Longer you last, faster it gets
+
+
 ## October 1st, 2019
 Meeting open at 5:03 pm, room P-263.
 
