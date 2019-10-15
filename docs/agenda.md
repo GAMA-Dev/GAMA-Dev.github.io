@@ -7,14 +7,11 @@
 ## Agenda
   * Club Pennant
   * Next Lab
-    * Next topic
+    * Blender
   * Game Tournament
-    * Shame on Dominic
-  * Presentation of Game Plans
-    * Discussion/Elaboration
+    * We got 'em
+  * Semester Project
+    * *So exciting!
+  * Delibartion on project
 
 ## Dates
-  * Civics Fair
-    * Wednesday 10/9/19: 11AM - 2PM
-  * SF Foundation Scholarships
-    * Prioty Date 10/15/19
