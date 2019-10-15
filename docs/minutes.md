@@ -1,4 +1,31 @@
 # Meeting Minutes
+## October 15th, 2019
+Meeting open at 5:10 pm, room P-263.
+
+### News
+* Santa Fe is starting evacuation drills.
+
+### Workshop
+* 3-D Blender
+ * October 17th at 5 pm in room N-114.
+ 
+### Game Tournament
+* November 19th
+ * Smash Ultimate
+ * Tekken 7
+ * Mario Kart 8
+* Food?
+
+### Semester Project
+App Winner: Ruin by Lucas!
+
+* Game discussion
+ * Functionality
+ * Teams: Artists, programming, music
+ * Design
+ * Style
+
+
 ## October 8th, 2019
 Meeting open at 5:00 pm, room P-263.
 
