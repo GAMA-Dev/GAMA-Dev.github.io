@@ -6,19 +6,20 @@
  * Evactuation Drills
 
 ## Agenda
-  * Club Pennant
-  * Next Lab
-    * Blender
   * Game Tournament
-    * We got 'em
+    * Date and time issues
+  * Next Lab
+  * Job Fair
+    * Wednesday, October 30: 9AM - Noon: R-01
   * Semester Project
     * So exciting!
+    * Roles, Team Leads, & You
   * Delibartion on project
 
 ## Dates
-  * Gator Day @ SF
-    * Wednesday, October 16: 10AM - 1PM: R-01
-  * LGBTQIA+ Awareness Fair and Intl. Pronouns Day
-    * Wednesday, October 16: 11AM - 2PM: S-Breezeway
-  * Society for Nerds: Halloween Bake Sale
-    * Tuesday, October 22: 10AM - 3PM: P-Breezeway
+  * Keys to Leadership Conference
+    * Tuesday, October 29: 3:15PM - 6PM: S-326
+  * Job Fair
+    * Wednesday, October 30: 9AM - Noon: R-01
+  * Halloween Fest
+    * Thursday, October 31: 11AM - 2PM: S-Breezeway 
