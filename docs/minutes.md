@@ -1,4 +1,52 @@
 # Meeting Minutes
+## October 22nd, 2019
+Meeting open at 5 pm, room P-263.
+
+### Game Tournament
+* Too many time restrictions on the 19th. 
+* Moved to February 4th, 2019 aiming for the same times ~1-8pm
+
+## Labs
+* Use lab times to work on game.
+* Thursdays, bi-weekly.
+* First week of November.
+
+## Job Fair
+* Wednesday, October 30th: 9 am - noon; R-01
+
+## Project Discussion
+* Discussed roles
+* Team leads
+* Discord roles
+
+# Project Focus
+* Level design (staged)
+* Character animations 
+* Combat mechanics
+* 2.5-D
+ * 2-D character, 3-D background or vice versa
+* Inventory system
+ * 4-5 slots
+ * Equals less items
+ * Specific/designated slots?
+* Tools/Weapons
+ * Primary & Secondary slots
+ * Ethereal weapon (relic)
+ * Spells
+* Bag of souls (health system)
+ * On HUD
+ * Certain creatures give souls
+ * Soul Phylactery
+ * Store souls at home base (phylactery)
+ * If Phylactery is destroyed, only get one 'soul' left
+ * Character can hold only so many souls (1-5) in a crystal
+ * Radius within respawning
+ * Cannot take crystal some places with you
+* Are we the bad guy? 
+ * Big baddie is Paladin
+* Day-night cycle
+
+
 ## October 15th, 2019
 Meeting open at 5:10 pm, room P-263.
 
