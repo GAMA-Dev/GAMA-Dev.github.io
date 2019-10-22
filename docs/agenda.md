@@ -1,5 +1,5 @@
 # GAMA Dev Meeting
-### Tuesday, October 8th 2019 : 5PM - 6PM : P-263
+### Tuesday, October 22nd 2019 : 5PM - 6PM : P-263
 
 ## News
  * Use Github
