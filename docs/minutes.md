@@ -6,20 +6,20 @@ Meeting open at 5 pm, room P-263.
 * Too many time restrictions on the 19th. 
 * Moved to February 4th, 2019 aiming for the same times ~1-8pm
 
-## Labs
+### Labs
 * Use lab times to work on game.
 * Thursdays, bi-weekly.
 * First week of November.
 
-## Job Fair
+### Job Fair
 * Wednesday, October 30th: 9 am - noon; R-01
 
-## Project Discussion
+### Project Discussion
 * Discussed roles
 * Team leads
 * Discord roles
 
-# Project Focus
+#### Project Focus
 * Level design (staged)
 * Character animations 
 * Combat mechanics
