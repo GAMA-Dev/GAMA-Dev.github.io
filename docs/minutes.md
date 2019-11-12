@@ -1,4 +1,18 @@
 # Meeting Minutes
+## November 12th, 2019
+Meeting open at 5 pm, room P-263.
+
+### Project Discussion
+* Tasks
+ * Tiers listed in git: Ruin-game
+ * Tiers split up based on Programming, Art, and Music
+* List what Tiers you will want to work on/working on in Discord in proper chats.
+
+### Lab
+* This Thursday, November 14th at 5 pm, room N-114.
+* Open lab to work on project.
+
+
 ## October 22nd, 2019
 Meeting open at 5 pm, room P-263.
 
