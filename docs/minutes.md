@@ -1,4 +1,20 @@
 # Meeting Minutes
+## November 19th, 2019
+Meeting open at 5 pm, room P-263.
+
+Started with open discussion.
+
+No more labs this year.
+
+#### Two more meetings this year
+* November 26th
+* December 3rd
+ * Pot-luck
+ * Relax before finals
+
+Project Deliberation/Discussion
+
+
 ## November 12th, 2019
 Meeting open at 5 pm, room P-263.
 
