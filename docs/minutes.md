@@ -1,4 +1,25 @@
 # Meeting Minutes
+## January 14th, 2019
+Meeting open at 5 pm, room P-263.
+
+#### Project Demo Displayed
+* Basic side-scroller
+* Looped gameplay
+
+#### Plans for semester
+* Club Rush Showcase
+* Valentine's Bake Sale
+* Game Tournament
+* Officer Elections
+
+#### Plans for Ruin Project
+* Deadline: 4/25/2020
+* Production: Gama Dev's itch.io page
+
+
+Project Deliberation/Discussion
+
+
 ## November 19th, 2019
 Meeting open at 5 pm, room P-263.
 
