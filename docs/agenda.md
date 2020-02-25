@@ -6,11 +6,7 @@
 
 ## Agenda
   * Review of Survey Results
-    * Why attendance is low
-    * What members want
-    * Why members joined
-    * What kind of projects
   * Memeber Recruitment Ideas
-  * Lab Topics
+  * Lab Topics / Times
 
 ## Dates
