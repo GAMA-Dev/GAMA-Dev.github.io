@@ -11,3 +11,7 @@
   * Survey Quiz
 
 ## Dates
+  * Art of Leadership
+    * March 17th: 3PM - 6PM: S-326
+  * Club Olympics
+    * March 24th: 3:30PM - 6PM: Tack and Field
