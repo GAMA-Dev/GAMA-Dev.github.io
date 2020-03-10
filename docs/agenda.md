@@ -1,12 +1,13 @@
 # GAMA Dev Meeting
-### Tuesday, February 18th 2020 : 5PM - 6PM : P-263
+### Tuesday, March 10th 2020 : 5PM - 6PM : P-263
 
 ## News
- * Use Github
+ * Use Canvas
 
 ## Agenda
-  * Review of Survey Results
-  * Memeber Recruitment Ideas
-  * Lab Topics / Times
+  * Moving to Canvas
+  * Using Canvas
+  * Purging
+  * Survey Quiz
 
 ## Dates
